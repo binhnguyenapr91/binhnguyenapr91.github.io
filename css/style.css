@@ -1,0 +1,34 @@
+
+#header{
+    background-color: aqua;
+    width: 100%;
+    margin: 0 auto;
+    height: 200px;
+}
+#nav_bar{
+   width: 100%;
+   height: 50px;
+   background-color: blue;
+   margin: 0 auto;
+}
+
+
+#left{
+float: left;
+width: 30%;
+height: 1000px;
+background-color: blueviolet;
+}
+
+#main{
+    float: left;
+width: 70%;
+height: 1000px;
+background-color: aquamarine;
+}
+
+#footer{
+    clear: both;
+    background-color: cadetblue;
+    width: 100%;
+    margin: 0 auto;}
